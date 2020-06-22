@@ -1,3 +1,3 @@
 const { success} = require('signale')
 
-success('hello team 1')
+success('hello team 2')
